@@ -33,8 +33,6 @@ $response->displayText = "";
 $response->source = "webhook";
 echo json_encode($response);
 
-
-
 }
 
 else{
